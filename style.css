@@ -21,7 +21,7 @@ body {
   margin: 0;
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   color: var(--text);
-  background: url("../Barbin's Portfolio/Photos/Backgroundpic.jpg");
+  background: linear-gradient(135deg, #ffc1e3, #d63384);
 }
 
 img {
